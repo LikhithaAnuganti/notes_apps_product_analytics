@@ -1,0 +1,16 @@
+{
+  "name": "apple_notes_product_analytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "csv-writer": "^1.6.0"
+  }
+}
