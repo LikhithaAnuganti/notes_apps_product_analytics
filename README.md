@@ -17,13 +17,13 @@ This project compares and analyzes reviews from popular note-taking apps such as
     - App popularity and performance across platforms
 
 -  **Sentiment analysis (NLP)**
-  - Cleaned and tokenized review text
-  - Polarity scoring to classify sentiment
-  - Trend analysis over time based on sentiment shift
+    - Cleaned and tokenized review text
+    - Polarity scoring to classify sentiment
+    - Trend analysis over time based on sentiment shift
 
 -  **AI summarization**
-  - Uses OpenAI API to generate summaries of user feedback
-  - Helps highlight common themes, issues, and praises
+    - Uses OpenAI API to generate summaries of user feedback
+    - Helps highlight common themes, issues, and praises
 
 ---
 
