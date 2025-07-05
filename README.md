@@ -2,6 +2,8 @@
 
 This project compares and analyzes reviews from popular note-taking apps such as **Notion**, **OneNote**, **Evernote**, **GoodNotes**, **Apple Notes**, and **Bear**, collected from both the **Google Play Store** and **Apple App Store**. It combines data scraping, pivot-based analytics, NLP sentiment analysis, and GenAI-powered summarization to uncover trends, insights, and user sentiment across platforms.
 
+Story telling Blogs on this projecct: 
+https://notes-on-notes-product-analytics.hashnode.dev/notes-on-notes-product-analytics
 ---
 
 ##  Project Overview
